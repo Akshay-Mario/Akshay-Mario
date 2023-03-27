@@ -1,4 +1,4 @@
- <h2>Hi I'm Akshay! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+ <h2>Hi, I'm A K S H A Y! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 # 💫 About Me:
 🔭 I’m currently working on Next JS project<br>🌱 I’m currently learning Machine Learning and OpenCV<br>💬 Ask me about Angular, React, ML<br>📫 How to reach me akshayatltvm@gmail.com
